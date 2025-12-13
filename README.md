@@ -323,8 +323,6 @@ For information about the governance of the Node.js project, see
   **Erick Wendel** <<erick.workspace@gmail.com>> (he/him)
 * [Ethan-Arrowood](https://github.com/Ethan-Arrowood) -
   **Ethan Arrowood** <<ethan@arrowood.dev>> (he/him)
-* [F3n67u](https://github.com/F3n67u) -
-  **Feng Yu** <<F3n67u@outlook.com>> (he/him)
 * [fhinkel](https://github.com/fhinkel) -
   **Franziska Hinkelmann** <<franziska.hinkelmann@gmail.com>> (she/her)
 * [Flarna](https://github.com/Flarna) -
@@ -347,6 +345,8 @@ For information about the governance of the Node.js project, see
   **Harshitha K P** <<harshitha014@gmail.com>> (she/her)
 * [himself65](https://github.com/himself65) -
   **Zeyu "Alex" Yang** <<himself65@outlook.com>> (he/him)
+* [hybrist](https://github.com/hybrist) -
+  **Jan Martin** <<jan.krems@gmail.com>> (he/him)
 * [IlyasShabi](https://github.com/IlyasShabi) -
   **Ilyas Shabi** <<ilyasshabi94@gmail.com>> (he/him)
 * [islandryu](https://github.com/islandryu) -
@@ -359,8 +359,6 @@ For information about the governance of the Node.js project, see
   **James M Snell** <<jasnell@gmail.com>> (he/him)
 * [jazelly](https://github.com/jazelly) -
   **Jason Zhang** <<xzha4350@gmail.com>> (he/him)
-* [jkrems](https://github.com/jkrems) -
-  **Jan Martin** <<jan.krems@gmail.com>> (he/him)
 * [JonasBa](https://github.com/JonasBa) -
   **Jonas Badalic** <<jonas.badalic@gmail.com>> (he/him)
 * [joyeecheung](https://github.com/joyeecheung) -
@@ -527,6 +525,8 @@ For information about the governance of the Node.js project, see
   **Eugene Ostroukhov** <<eostroukhov@google.com>>
 * [evanlucas](https://github.com/evanlucas) -
   **Evan Lucas** <<evanlucas@me.com>> (he/him)
+* [F3n67u](https://github.com/F3n67u) -
+  **Feng Yu** <<F3n67u@outlook.com>> (he/him)
 * [firedfox](https://github.com/firedfox) -
   **Daniel Wang** <<wangyang0123@gmail.com>>
 * [Fishrock123](https://github.com/Fishrock123) -
@@ -751,12 +751,12 @@ maintaining the Node.js project.
   **Oliver Medhurst** <<honk@goose.icu>> (they/them)
 * [daeyeon](https://github.com/daeyeon) -
   **Daeyeon Jeong** <<daeyeon.dev@gmail.com>> (he/him)
-* [F3n67u](https://github.com/F3n67u) -
-  **Feng Yu** <<F3n67u@outlook.com>> (he/him)
 * [gireeshpunathil](https://github.com/gireeshpunathil) -
   **Gireesh Punathil** <<gpunathi@in.ibm.com>> (he/him)
 * [gurgunday](https://github.com/gurgunday) -
   **Gürgün Dayıoğlu** <<hey@gurgun.day>>
+* [haramj](https://github.com/haramj) -
+  **Haram Jeong** <<haramj.dev@gmail.com>>
 * [HBSPS](https://github.com/HBSPS) -
   **Wiyeong Seo** <<hbsps.dev@gmail.com>>
 * [iam-frankqiu](https://github.com/iam-frankqiu) -
